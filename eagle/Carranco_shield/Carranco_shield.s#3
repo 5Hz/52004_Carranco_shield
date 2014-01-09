@@ -33278,11 +33278,11 @@ Used in MPL115A1</description>
 <vertex x="73.66" y="142.24"/>
 <vertex x="73.66" y="185.42"/>
 </polygon>
-<text x="25.4" y="147.32" size="5.08" layer="91">PWR</text>
-<text x="17.78" y="71.12" size="5.08" layer="91">SENSORS</text>
-<text x="127" y="35.56" size="5.08" layer="91" rot="R90">COMUNICATION</text>
-<text x="215.9" y="27.94" size="1.778" layer="91">Diseñado por Ezequias</text>
-<text x="162.56" y="27.94" size="1.778" layer="91">www.5hz-electronica.com</text>
+<text x="25.4" y="137.16" size="5.08" layer="91">PWR</text>
+<text x="25.4" y="83.82" size="5.08" layer="91">SENSORS</text>
+<text x="127" y="38.1" size="5.08" layer="91" rot="R90">COMUNICATION</text>
+<text x="215.9" y="25.4" size="1.778" layer="91">DISEÑADO POR MAÑENGO</text>
+<text x="154.94" y="30.48" size="1.778" layer="91">WWW.5Hz-electronica.com</text>
 <text x="22.86" y="60.96" size="1.778" layer="91">pressure, temp &amp; altitude</text>
 <text x="88.9" y="55.88" size="1.778" layer="91">humidity</text>
 <text x="86.36" y="43.18" size="1.778" layer="91">light</text>
